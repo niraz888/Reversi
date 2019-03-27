@@ -1,0 +1,3 @@
+/home/natanno4/Desktop/project/ex4final/src/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/natanno4/Desktop/project/ex4final/src/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/natanno4/Desktop/project/ex4final/src/server/cmake-build-debug/CMakeFiles/server.dir
